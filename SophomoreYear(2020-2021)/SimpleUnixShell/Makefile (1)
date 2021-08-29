@@ -1,0 +1,4 @@
+my257sh:
+	gcc -pthread csapp.c shellex.c -o my257sh
+clean:
+	rm my257sh
